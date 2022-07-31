@@ -1,0 +1,8 @@
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW4\Hakan\Hakan.ConsoleApp.CoinFlip\bin\Debug\Hakan.ConsoleApp.CoinFlip.exe.config
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW4\Hakan\Hakan.ConsoleApp.CoinFlip\bin\Debug\Hakan.ConsoleApp.CoinFlip.exe
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW4\Hakan\Hakan.ConsoleApp.CoinFlip\bin\Debug\Hakan.ConsoleApp.CoinFlip.pdb
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW4\Hakan\Hakan.ConsoleApp.CoinFlip\obj\Debug\Hakan.ConsoleApp.CoinFlip.csproj.AssemblyReference.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW4\Hakan\Hakan.ConsoleApp.CoinFlip\obj\Debug\Hakan.ConsoleApp.CoinFlip.csproj.SuggestedBindingRedirects.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW4\Hakan\Hakan.ConsoleApp.CoinFlip\obj\Debug\Hakan.ConsoleApp.CoinFlip.csproj.CoreCompileInputs.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW4\Hakan\Hakan.ConsoleApp.CoinFlip\obj\Debug\Hakan.ConsoleApp.CoinFlip.exe
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW4\Hakan\Hakan.ConsoleApp.CoinFlip\obj\Debug\Hakan.ConsoleApp.CoinFlip.pdb

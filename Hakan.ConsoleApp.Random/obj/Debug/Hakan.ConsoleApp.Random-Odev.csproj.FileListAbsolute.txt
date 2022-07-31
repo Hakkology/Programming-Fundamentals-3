@@ -1,0 +1,8 @@
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW4\Hakan\Hakan.ConsoleApp.Random\bin\Debug\Hakan.ConsoleApp.Random.exe.config
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW4\Hakan\Hakan.ConsoleApp.Random\bin\Debug\Hakan.ConsoleApp.Random.exe
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW4\Hakan\Hakan.ConsoleApp.Random\bin\Debug\Hakan.ConsoleApp.Random.pdb
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW4\Hakan\Hakan.ConsoleApp.Random\obj\Debug\Hakan.ConsoleApp.Random-Odev.csproj.AssemblyReference.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW4\Hakan\Hakan.ConsoleApp.Random\obj\Debug\Hakan.ConsoleApp.Random-Odev.csproj.SuggestedBindingRedirects.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW4\Hakan\Hakan.ConsoleApp.Random\obj\Debug\Hakan.ConsoleApp.Random-Odev.csproj.CoreCompileInputs.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW4\Hakan\Hakan.ConsoleApp.Random\obj\Debug\Hakan.ConsoleApp.Random.exe
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW4\Hakan\Hakan.ConsoleApp.Random\obj\Debug\Hakan.ConsoleApp.Random.pdb

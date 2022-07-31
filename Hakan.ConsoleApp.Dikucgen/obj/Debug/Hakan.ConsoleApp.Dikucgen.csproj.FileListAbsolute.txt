@@ -1,0 +1,8 @@
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW4\Hakan\Hakan.ConsoleApp.Dikucgen\obj\Debug\Hakan.ConsoleApp.Dikucgen.csproj.AssemblyReference.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW4\Hakan\Hakan.ConsoleApp.Dikucgen\obj\Debug\Hakan.ConsoleApp.Dikucgen.csproj.SuggestedBindingRedirects.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW4\Hakan\Hakan.ConsoleApp.Dikucgen\obj\Debug\Hakan.ConsoleApp.Dikucgen.csproj.CoreCompileInputs.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW4\Hakan\Hakan.ConsoleApp.Dikucgen\bin\Debug\Hakan.ConsoleApp.Dikucgen.exe.config
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW4\Hakan\Hakan.ConsoleApp.Dikucgen\bin\Debug\Hakan.ConsoleApp.Dikucgen.exe
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW4\Hakan\Hakan.ConsoleApp.Dikucgen\bin\Debug\Hakan.ConsoleApp.Dikucgen.pdb
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW4\Hakan\Hakan.ConsoleApp.Dikucgen\obj\Debug\Hakan.ConsoleApp.Dikucgen.exe
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW4\Hakan\Hakan.ConsoleApp.Dikucgen\obj\Debug\Hakan.ConsoleApp.Dikucgen.pdb

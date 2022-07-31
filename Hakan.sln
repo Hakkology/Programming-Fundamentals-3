@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hakan.ConsoleApp.Login-Register-Odev", "Hakan.ConsoleApp.Hafta3\Hakan.ConsoleApp.Login-Register-Odev.csproj", "{B091DF9A-93D2-4F09-9B60-1D435E858012}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hakan.ConsoleApp.Dikucgen-Odev", "Hakan.ConsoleApp.Dikucgen\Hakan.ConsoleApp.Dikucgen-Odev.csproj", "{080E4C97-492B-400F-B924-81114C5622D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hakan.ConsoleApp.Kare-Odev", "Hakan.ConsoleApp.Kare-Odev\Hakan.ConsoleApp.Kare-Odev.csproj", "{46D8E38B-F201-4141-B63B-BE116784C867}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hakan.ConsoleApp.Random-Odev", "Hakan.ConsoleApp.Random\Hakan.ConsoleApp.Random-Odev.csproj", "{9CCFAE92-2F79-4F9C-93E1-59486FB5A64A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hakan.ConsoleApp.CoinFlip-OdevDeğil", "Hakan.ConsoleApp.CoinFlip\Hakan.ConsoleApp.CoinFlip-OdevDeğil.csproj", "{52CAF512-C6FA-4A62-A2F7-0E6E3E4709E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B091DF9A-93D2-4F09-9B60-1D435E858012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B091DF9A-93D2-4F09-9B60-1D435E858012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B091DF9A-93D2-4F09-9B60-1D435E858012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B091DF9A-93D2-4F09-9B60-1D435E858012}.Release|Any CPU.Build.0 = Release|Any CPU
+		{080E4C97-492B-400F-B924-81114C5622D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{080E4C97-492B-400F-B924-81114C5622D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{080E4C97-492B-400F-B924-81114C5622D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{080E4C97-492B-400F-B924-81114C5622D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46D8E38B-F201-4141-B63B-BE116784C867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46D8E38B-F201-4141-B63B-BE116784C867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46D8E38B-F201-4141-B63B-BE116784C867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46D8E38B-F201-4141-B63B-BE116784C867}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CCFAE92-2F79-4F9C-93E1-59486FB5A64A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CCFAE92-2F79-4F9C-93E1-59486FB5A64A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CCFAE92-2F79-4F9C-93E1-59486FB5A64A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CCFAE92-2F79-4F9C-93E1-59486FB5A64A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52CAF512-C6FA-4A62-A2F7-0E6E3E4709E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52CAF512-C6FA-4A62-A2F7-0E6E3E4709E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52CAF512-C6FA-4A62-A2F7-0E6E3E4709E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52CAF512-C6FA-4A62-A2F7-0E6E3E4709E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB841807-C57C-4C61-8994-7D057C97F2F7}
+	EndGlobalSection
+EndGlobal

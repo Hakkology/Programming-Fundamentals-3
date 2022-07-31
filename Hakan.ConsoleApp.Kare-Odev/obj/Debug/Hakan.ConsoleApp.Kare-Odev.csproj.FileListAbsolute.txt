@@ -1,0 +1,8 @@
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW4\Hakan\Hakan.ConsoleApp.Kare-Odev\bin\Debug\Hakan.ConsoleApp.Kare-Odev.exe.config
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW4\Hakan\Hakan.ConsoleApp.Kare-Odev\bin\Debug\Hakan.ConsoleApp.Kare-Odev.exe
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW4\Hakan\Hakan.ConsoleApp.Kare-Odev\bin\Debug\Hakan.ConsoleApp.Kare-Odev.pdb
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW4\Hakan\Hakan.ConsoleApp.Kare-Odev\obj\Debug\Hakan.ConsoleApp.Kare-Odev.csproj.AssemblyReference.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW4\Hakan\Hakan.ConsoleApp.Kare-Odev\obj\Debug\Hakan.ConsoleApp.Kare-Odev.csproj.SuggestedBindingRedirects.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW4\Hakan\Hakan.ConsoleApp.Kare-Odev\obj\Debug\Hakan.ConsoleApp.Kare-Odev.csproj.CoreCompileInputs.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW4\Hakan\Hakan.ConsoleApp.Kare-Odev\obj\Debug\Hakan.ConsoleApp.Kare-Odev.exe
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW4\Hakan\Hakan.ConsoleApp.Kare-Odev\obj\Debug\Hakan.ConsoleApp.Kare-Odev.pdb

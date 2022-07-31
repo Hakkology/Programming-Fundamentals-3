@@ -1,0 +1,8 @@
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW4\Hakan\Hakan.ConsoleApp.Hafta3\bin\Debug\Hakan.ConsoleApp.Hafta3.exe.config
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW4\Hakan\Hakan.ConsoleApp.Hafta3\bin\Debug\Hakan.ConsoleApp.Hafta3.exe
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW4\Hakan\Hakan.ConsoleApp.Hafta3\bin\Debug\Hakan.ConsoleApp.Hafta3.pdb
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW4\Hakan\Hakan.ConsoleApp.Hafta3\obj\Debug\Hakan.ConsoleApp.Login-Register-While.csproj.AssemblyReference.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW4\Hakan\Hakan.ConsoleApp.Hafta3\obj\Debug\Hakan.ConsoleApp.Login-Register-While.csproj.SuggestedBindingRedirects.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW4\Hakan\Hakan.ConsoleApp.Hafta3\obj\Debug\Hakan.ConsoleApp.Login-Register-While.csproj.CoreCompileInputs.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW4\Hakan\Hakan.ConsoleApp.Hafta3\obj\Debug\Hakan.ConsoleApp.Hafta3.exe
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW4\Hakan\Hakan.ConsoleApp.Hafta3\obj\Debug\Hakan.ConsoleApp.Hafta3.pdb
